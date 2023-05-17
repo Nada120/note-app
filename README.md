@@ -1,8 +1,8 @@
 # Note App
 
-An application was built using FLUTTER.  
+An application was built using FLUTTER.  😄💝📱
 
-## Packages was used:-  
+## Packages was used:- 📦🧰   
 1) bloc  
 2) flutter_bloc  
 3) hive  
@@ -10,7 +10,7 @@ An application was built using FLUTTER.
 5) animated splash screen  
 6) date format  
 
-## The final result:-  
+## The final result:-  🤯🏁
 ![1684346469774](https://github.com/Nada120/note-app/assets/74355967/62bd16c0-c459-4a55-9fbb-c068cbadd8dd)  
 
 ![1684346469782](https://github.com/Nada120/note-app/assets/74355967/f17ec1b9-93a5-4923-9fbf-16618e976af3)  
